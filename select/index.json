@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "PILLOWTALK",
+  "base_artist": "ZAYN",
+  "createdAt": "2026-03-09T17:24:12.221067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/01_PILLOWTALK_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PILLOWTALK (Remix) [feat. Lil Wayne]",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/02_PILLOWTALK_(Remix)_[feat._Lil_Wayne]_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PILLOWTALK (remix)",
+      "artist": "ZAYN feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_PILLOWTALK_(remix)_ZAYN_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/04_PILLOWTALK_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/05_PILLOWTALK_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/06_PILLOWTALK_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/07_PILLOWTALK_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pillowtalk",
+      "artist": "Zayn",
+      "has_synced": true,
+      "path": "select/08_Pillowtalk_Zayn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pillowtalk",
+      "artist": "Kx",
+      "has_synced": false,
+      "path": "select/09_Pillowtalk_Kx.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pillowtalk",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/10_Pillowtalk_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_PILLOWTALK_ZAYN.txt"
+    }
+  ]
+}
